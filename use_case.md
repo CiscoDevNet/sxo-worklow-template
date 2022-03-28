@@ -22,13 +22,13 @@ Service-oriented orchestration provides the agility to model and act on IT servi
 * Using events to watch for patterns in these services, enabling policy-driven automation.
 * Service-oriented Orchestration combines several industry trends to synthesize a fresh approach to orchestration:
 
-Please continue your reading in this [white paper](https://www.cisco.com/c/en/us/products/collateral/security/white-paper-c11-744498.html).
+Please continue your reading in this [SecureX white paper](https://www.cisco.com/c/en/us/products/collateral/security/white-paper-c11-744498.html).
 
 ## Related Sandbox
-Currently there is no DevNet sandbox yet, however you can find all options to try out SecureX orchestration [here](https://developer.cisco.com/learning/lab/Cisco-SecureX-101-lab/step/1)!
+Currently there is no DevNet sandbox yet, however you can find all options to try out these [SecureX orchestration learning labs](https://developer.cisco.com/learning/lab/Cisco-SecureX-101-lab/step/1)!
 
 ## List of SecureX Learning Labs
-* Please try out [this SecureX DevNet learning lab](https://developer.cisco.com/learning/modules/SecureX-orchestration) to try this yourself. 
+* Please try out this [SecureX DevNet learning lab](https://developer.cisco.com/learning/modules/SecureX-orchestration) to try this yourself. 
 * Please also check out the [SecureX microsite](https://developer.cisco.com/securex/) on DevNet!
 
 ## Solutions on Ecosystem Exchange
